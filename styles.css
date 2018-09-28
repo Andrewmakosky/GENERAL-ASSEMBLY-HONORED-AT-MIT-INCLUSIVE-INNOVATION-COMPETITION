@@ -1,0 +1,21 @@
+body {
+    background-image: url("https://scontent-lga3-1.xx.fbcdn.net/v/t1.0-9/15697844_1182888365093550_7471564870650857659_n.png?_nc_cat=1&oh=fcffd7f9b771fc7e3f9834a930676711&oe=5C229A72");
+    background-size: 100%;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+div { 
+    font-size: 20px;
+    color:#000099;
+    text-align:center;
+}
+h3 {
+    text-align: center;
+    font-size: 25px;
+}
+ul {
+    text-align: center;
+    padding-left: 240px;
+    padding-right: 220px;
+    font-size: 20px;
+}
